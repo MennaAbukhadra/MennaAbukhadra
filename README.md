@@ -34,14 +34,9 @@ I enjoy building ML models, exploring deep learning, and pushing myself in compe
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp"/>
   <img width="10"/>
 
-  <img src="https://www.clipartmax.com/png/middle/441-4412847_jupyter-logo.png" height="50" alt="jupyter"/>
-
+  <img src="https://friconix.com/png/fi-snsuxx-jupyter-notebook.png" height="50" alt="jupyter"/>
   <img width="10"/>
 
-  <img src="https://skillicons.dev/icons?i=codeforces" height="50" alt="codeforces"/>
-  <img width="10"/>
-
-  <!-- Version Control -->
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git"/>
   <img width="10"/>
 
