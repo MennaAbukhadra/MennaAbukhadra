@@ -1,72 +1,49 @@
-<h1 align="left">Hi, I'm Menna</h1>
+<h1 align="left">Hi, I'm Menna Abu-khadra</h1>
 
 <p align="left">
-I'm a Computer Science student and an AI/ML enthusiast who is building a strong foundation in machine learning, deep learning, NLP, and computer vision.  
-I enjoy working on practical projects that help me understand how real AI systems are built, and I constantly develop my problem-solving skills through C++ and Python.
+I'm a Computer Science student who recently started exploring the world of Artificial Intelligence and Machine Learning.  
+I’m learning step by step, building small projects, making mistakes, fixing them, and enjoying the process.  
+My goal is to become an AI Engineer and eventually work on real-world ML systems that actually make a difference.
 </p>
 
 ---
 
-<h2 align="left">About Me</h2>
-
+## 🚀 About Me
 - Started programming with C++ and Python  
-- Currently learning Machine Learning, Deep Learning, NLP & Computer Vision  
-- Interested in Generative AI and model development  
-- Practicing problem solving regularly (C++ & Python)  
-- Goal: Become an AI Engineer and build impactful ML systems  
+- Currently strengthening my understanding of Machine Learning & Deep Learning  
+- Trying out my first steps in NLP and Computer Vision  
+- Curious about Generative AI and how models learn  
+- Practicing problem-solving regularly (mostly C++ & Python)  
+- I really enjoy learning by doing, even if it takes time  
 
 ---
 
-<h2 align="left">Technologies I Use</h2>
+## 🛠️ Technologies & Tools
 
 <div align="left">
-
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python"/>
-  <img width="10"/>
-
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java"/>
-  <img width="10"/>
-
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp"/>
-  <img width="10"/>
-
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git"/>
-  <img width="10"/>
-
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github"/>
-  <img width="10"/>
-
-  <!-- Jupyter custom icon -->
-  <img 
-    src="https://canada1.discourse-cdn.com/flex031/uploads/jupyter/original/1X/50206ee532fcfae18c9359cfe327ed6844d0cf79.png"
-    height="38"
-    style="border-radius: 12px; background-color: #1e1e1e; padding: 6px; display:inline-block; vertical-align:middle;"
-    alt="jupyter"
-  />
-  <img width="10"/>
-
-  <img src="https://skillicons.dev/icons?i=kaggle" height="50" alt="kaggle"/>
-  <img width="10"/>
-
-  <img src="https://skillicons.dev/icons?i=codeforces" height="50" alt="codeforces"/>
-  <img width="10"/>
-
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </div>
 
 ---
 
-<h2 align="left">Education</h2>
-
-- Egyptian E-Learning University (EELU) — Computer Science (2023–2027)  
-- Cisco Networking Academy — Networking fundamentals  
-
----
-
-<h2 align="left">What I'm Currently Doing</h2>
-
-- Building small ML/DL projects to strengthen fundamentals  
-- Practicing problem solving on Codeforces  
-- Preparing to explore Generative AI and advanced deep learning  
+## 📚 Education
+- **Egyptian E-Learning University (EELU)** – Computer Science (2023–2027)  
+- **Cisco Networking Academy** – Networking Fundamentals  
 
 ---
 
+## 🔥 What I'm Currently Doing
+- Building small ML/DL projects to strengthen my fundamentals  
+- Improving my competitive programming skills on Codeforces  
+- Preparing myself to learn more about Generative AI and advanced DL  
+
+---
+
+## 📫 Contact Me
+If you'd like to connect or share ideas, feel free to reach out 😊  
+- **LinkedIn:** *https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3Bl6SbdIbgRgaqysyvX0IuHg%3D%3D*  
+- **Email:** *mmabukhadra05@gmail.com*  
