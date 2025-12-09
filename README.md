@@ -34,7 +34,10 @@ I enjoy building ML models, exploring deep learning, and pushing myself in compe
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp"/>
   <img width="10"/>
 
-<img src="LINK_HERE" height="50" alt="jupyter"/>
+<img src="https://canada1.discourse-cdn.com/flex031/uploads/jupyter/original/1X/50206ee532fcfae18c9359cfe327ed6844d0cf79.png" 
+     height="50" 
+     style="border-radius: 12px; background-color: #1e1e1e; padding: 6px;" 
+     alt="jupyter"/>
   <img width="10"/>
 
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git"/>
