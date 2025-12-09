@@ -21,10 +21,8 @@ I enjoy building ML models, exploring deep learning, and pushing myself in compe
 🎲 Fun fact: Debugging is 50% science, 50% vibes 💀
 </p>
 
-###
-<div align="left">
+###<div align="left">
 
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="python"/>
   <img width="10"/>
 
@@ -34,17 +32,19 @@ I enjoy building ML models, exploring deep learning, and pushing myself in compe
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp"/>
   <img width="10"/>
 
-  <img src="https://canada1.discourse-cdn.com/flex031/uploads/jupyter/original/1X/50206ee532fcfae18c9359cfe327ed6844d0cf79.png" 
-     height="42" 
-     style="border-radius: 10px; background-color: #1e1e1e; padding: 4px;" 
-     alt="jupyter"/>
-
+  <img 
+    src="https://canada1.discourse-cdn.com/flex031/uploads/jupyter/original/1X/50206ee532fcfae18c9359cfe327ed6844d0cf79.png"
+    height="38"
+    style="border-radius: 12px; background-color: #1e1e1e; padding: 6px; display:inline-block; vertical-align:middle;"
+    alt="jupyter"
+  />
   <img width="10"/>
 
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git"/>
   <img width="10"/>
 
 </div>
+
 
 ###
 
