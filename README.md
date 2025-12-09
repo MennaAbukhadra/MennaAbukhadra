@@ -45,5 +45,5 @@ My goal is to become an AI Engineer and eventually work on real-world ML systems
 
 ## 📫 Contact Me
 If you'd like to connect or share ideas, feel free to reach out 😊  
-- **LinkedIn:** *https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3Bl6SbdIbgRgaqysyvX0IuHg%3D%3D*  
+- **LinkedIn:** *https://www.linkedin.com/in/menna-abu-khadra-99887b229/*  
 - **Email:** *mmabukhadra05@gmail.com*  
