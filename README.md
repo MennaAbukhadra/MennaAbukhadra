@@ -22,28 +22,36 @@ I enjoy building ML models, exploring deep learning, and pushing myself in compe
 </p>
 
 ###
-
-<h2 align="left">I code with</h2>
-
-###
-
 <div align="left">
 
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"/>
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"/>
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cpp logo"/>
-  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python"/>
+  <img width="10"/>
 
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java"/>
+  <img width="10"/>
 
-  <!-- Notebooks -->
-  <img src="https://skillicons.dev/icons?i=jupyter" height="45" alt="jupyter logo"/>
-  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp"/>
+  <img width="10"/>
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"/>
+  <!-- ML / Data / Tools -->
+  <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="jupyter"/>
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=kaggle" height="50" alt="kaggle"/>
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=codeforces" height="50" alt="codeforces"/>
+  <img width="10"/>
+
+  <!-- Version Control -->
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git"/>
+  <img width="10"/>
+
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github"/>
+  <img width="10"/>
+
 </div>
 
 ###
+
