@@ -34,7 +34,7 @@ I enjoy building ML models, exploring deep learning, and pushing myself in compe
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp"/>
   <img width="10"/>
 
-  <img src="https://kiran-parte.github.io/aiforall/assets/images/blog/jupyter.jpg" height="50" alt="jupyter"/>
+  <img src="https://www.clipartmax.com/png/middle/250-2501985_siks-cbs-datacamp-spark-tutorial-notebook-jupyter-notebook-icon.png" height="50" alt="jupyter"/>
   <img width="10"/>
 
   <img src="https://skillicons.dev/icons?i=codeforces" height="50" alt="codeforces"/>
