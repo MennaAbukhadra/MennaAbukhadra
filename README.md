@@ -37,17 +37,6 @@ I enjoy building ML models, exploring deep learning, and pushing myself in compe
   <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cpp logo"/>
   <img width="10" />
 
-  <!-- ML Tools -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="tensorflow logo"/>
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="pytorch logo"/>
-  <img width="10" />
-
-  <!-- Data / Math -->
-  <img src="https://skillicons.dev/icons?i=numpy" height="45" alt="numpy logo"/>
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="45" alt="pandas logo"/>
-  <img width="10" />
 
   <!-- Notebooks -->
   <img src="https://skillicons.dev/icons?i=jupyter" height="45" alt="jupyter logo"/>
